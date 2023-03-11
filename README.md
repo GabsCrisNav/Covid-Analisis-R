@@ -9,6 +9,10 @@ it belongs to the family of coronaviruses, which made it possible to develop the
 This script does:
 
 ● Work with coronavirus sequences from other species similar to SARS-CoV-2, through fasta files
+
 ● Analyze the duration of the sequences
+
 ● Analyze the concentrations of the different nucleotides
+
 ● Display information in clear, colorful graphics
+
