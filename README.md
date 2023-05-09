@@ -1,4 +1,4 @@
-# Deep analysis for SARS-CoV-2
+# Deep analysis for SARS-CoV-2 ⛑️
 
 The disease called COVID-19 is a highly contagious viral infection,
 the cause of this severe acute respiratory syndrome is SARS-CoV-2.
